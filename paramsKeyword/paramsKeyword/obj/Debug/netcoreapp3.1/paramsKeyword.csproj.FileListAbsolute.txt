@@ -1,0 +1,13 @@
+C:\Users\Yasmin\source\repos\paramsKeyword\paramsKeyword\bin\Debug\netcoreapp3.1\paramsKeyword.exe
+C:\Users\Yasmin\source\repos\paramsKeyword\paramsKeyword\bin\Debug\netcoreapp3.1\paramsKeyword.deps.json
+C:\Users\Yasmin\source\repos\paramsKeyword\paramsKeyword\bin\Debug\netcoreapp3.1\paramsKeyword.runtimeconfig.json
+C:\Users\Yasmin\source\repos\paramsKeyword\paramsKeyword\bin\Debug\netcoreapp3.1\paramsKeyword.runtimeconfig.dev.json
+C:\Users\Yasmin\source\repos\paramsKeyword\paramsKeyword\bin\Debug\netcoreapp3.1\paramsKeyword.dll
+C:\Users\Yasmin\source\repos\paramsKeyword\paramsKeyword\bin\Debug\netcoreapp3.1\paramsKeyword.pdb
+C:\Users\Yasmin\source\repos\paramsKeyword\paramsKeyword\obj\Debug\netcoreapp3.1\paramsKeyword.csprojAssemblyReference.cache
+C:\Users\Yasmin\source\repos\paramsKeyword\paramsKeyword\obj\Debug\netcoreapp3.1\paramsKeyword.AssemblyInfoInputs.cache
+C:\Users\Yasmin\source\repos\paramsKeyword\paramsKeyword\obj\Debug\netcoreapp3.1\paramsKeyword.AssemblyInfo.cs
+C:\Users\Yasmin\source\repos\paramsKeyword\paramsKeyword\obj\Debug\netcoreapp3.1\paramsKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin\source\repos\paramsKeyword\paramsKeyword\obj\Debug\netcoreapp3.1\paramsKeyword.dll
+C:\Users\Yasmin\source\repos\paramsKeyword\paramsKeyword\obj\Debug\netcoreapp3.1\paramsKeyword.pdb
+C:\Users\Yasmin\source\repos\paramsKeyword\paramsKeyword\obj\Debug\netcoreapp3.1\paramsKeyword.genruntimeconfig.cache
